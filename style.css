@@ -15,3 +15,12 @@ background-color: #fef5fa;
 .title-text{
     color: #231D4F;
 }
+.icon-cg{
+    color: #5243C2;
+}
+.input-btn {
+    height: 30px;
+    width: 100%;
+    border-radius: 20px;
+    margin-bottom: 20px;
+  }
