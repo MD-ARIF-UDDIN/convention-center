@@ -1,3 +1,17 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.center-name{
+    font-weight: 700;
+    font-size: 22px;
+}
+.highlighted-card{
+     background: #3F87F5;
+        border-radius: 26px;
+}
+.button-off{
+background-color: #fef5fa;
+}
+.title-text{
+    color: #231D4F;
+}
