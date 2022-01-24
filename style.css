@@ -10,7 +10,9 @@ body{
         border-radius: 26px;
 }
 .button-off{
-background-color: #fef5fa;
+    background-color: #fef5fa;
+    width:232px;
+    height:45px;
 }
 .title-text{
     color: #231D4F;
