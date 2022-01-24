@@ -1,10 +1,14 @@
+/* BODY PART CUSTOM */
 body{
     font-family: 'Poppins', sans-serif;
 }
+
 .center-name{
     font-weight: 700;
     font-size: 22px;
 }
+
+/* higlighted card */
 .highlighted-card{
      background: #3F87F5;
         border-radius: 26px;
@@ -14,6 +18,8 @@ body{
     width:232px;
     height:45px;
 }
+
+
 .title-text{
     color: #231D4F;
 }
@@ -26,3 +32,10 @@ body{
     border-radius: 20px;
     margin-bottom: 20px;
   }
+  .tarea{
+      height: 150px;
+  }
+  /* footer */
+footer{
+    height: 280px;
+}
